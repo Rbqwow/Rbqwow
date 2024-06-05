@@ -1,9 +1,11 @@
-### Hi there 👋
+# \>ワ<​ [うわ！](https://cdnimg.gamekee.com/wiki2.0/images/w_0/h_0/829/223205/2023/0/24/359512.ogg)
 
-Rbqwow is here.
+Ciallo～(∠・ω< )⌒☆
+
+Rbqwow are here!
 
 [![Rbqwow's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbqwow&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbqwow&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbqwow&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Rbqwow/Rbqwow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
