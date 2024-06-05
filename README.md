@@ -1,4 +1,4 @@
-# \>ワ<​ [うわ！](https://cdnimg.gamekee.com/wiki2.0/images/w_0/h_0/829/223205/2023/0/24/359512.ogg)
+# \>ワ<​ [うわ！](https://raw.githubusercontent.com/Rbqwow/Rbqwow/main/%E3%81%86%E3%82%8F%EF%BC%81.ogg)
 
 Ciallo～(∠・ω< )⌒☆
 
